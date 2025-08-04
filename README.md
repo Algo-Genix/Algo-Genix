@@ -39,10 +39,10 @@ Welcome! I’m passionate about making web development **simple, accessible, and
 
 ## 📬 Connect with Me
 
-- 🌐 [Portfolio Website](https://algogenix.github.io/)  
-- 📸 [Instagram](https://instagram.com/algogenix)  
+- 🌐 [Portfolio Website](https://algo-genix.github.io/Algo-Genix-portfolio/)  
+- 📸 [Instagram](https://www.instagram.com/algo_genix?igsh=MXR3MzZzNHdiNjUxZg%3D%3D&utm_source=qr)  
 - 💼 [LinkedIn](https://linkedin.com/in/algogenix)  
-- ✉️ Email: your@email.com
+- ✉️ Email: info.algogenix@gmail.com
 
 ---
 
